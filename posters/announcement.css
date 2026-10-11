@@ -38,24 +38,24 @@ html, body {
 }
 
 .notice h1 {
-  margin-top: 4px;
+  margin-top: 6px;
   font-family: Syne, Outfit, sans-serif;
   font-weight: 800;
-  font-size: 42px;
+  font-size: 48px;
   letter-spacing: 0.02em;
   line-height: 1;
 }
 
 .lead {
-  margin-top: 10px;
-  font-size: 16px;
-  line-height: 1.45;
+  margin-top: 14px;
+  font-size: 22px;
+  line-height: 1.4;
   color: #d5e2f5;
 }
 
 .lead.second {
-  margin-top: 8px;
-  color: #a9bad4;
+  margin-top: 12px;
+  color: #c5d4ea;
 }
 
 .sheet {
