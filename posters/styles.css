@@ -420,9 +420,10 @@ html, body {
   margin-top: 4px;
   display: flex;
   gap: 14px;
-  font-family: Syne, Outfit, sans-serif;
+  font-family: Outfit, "Noto Sans", sans-serif;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 20px;
+  letter-spacing: 0.01em;
   color: #ffffff;
 }
 
