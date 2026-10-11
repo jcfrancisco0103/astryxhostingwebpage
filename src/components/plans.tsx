@@ -82,13 +82,13 @@ export function Plans() {
                   <Card
                     className={
                       plan.balanced
-                        ? "h-full border-[#7ad7ff]/40 bg-[#10203c] shadow-[0_0_40px_rgba(62,180,255,0.12)] ring-[#7ad7ff]/40"
-                        : "h-full border-white/10 bg-[#0d1830]/90"
+                        ? "h-full overflow-visible border-[#7ad7ff]/40 bg-[#10203c] shadow-[0_0_40px_rgba(62,180,255,0.12)] ring-[#7ad7ff]/40"
+                        : "h-full overflow-visible border-white/10 bg-[#0d1830]/90"
                     }
                   >
                     <CardHeader>
                       <div className="flex items-center justify-between gap-2">
-                        <CardTitle className="font-heading text-lg font-extrabold tracking-wide text-white uppercase">
+                        <CardTitle className="font-heading text-[clamp(0.95rem,2.2vw,1.15rem)] leading-tight font-extrabold tracking-wide text-balance text-white uppercase xl:text-[clamp(0.72rem,0.85vw,0.95rem)] xl:tracking-normal">
                           {plan.name}
                         </CardTitle>
                         {plan.balanced ? (
