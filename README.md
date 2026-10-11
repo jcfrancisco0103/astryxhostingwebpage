@@ -2,8 +2,8 @@
 
 Price posters for Astryx Hosting dedicated game servers.
 
-- **Intel Xeon Gold Series** — Pig ₱899, Wolf ₱1,249, Zombie ₱1,549, Skeleton ₱2,249, Ender Dragon ₱2,899
-- **Ryzen 9 Series** — Core ₱1,149, Boost ₱1,549, Power ₱1,949, Performance ₱2,799, Ultra ₱3,499
+- **Intel Xeon Gold Series** — Pig ₱249, Wolf ₱349, Zombie ₱549, Skeleton ₱799, Ender Dragon ₱1,099
+- **Ryzen 9 Series** — Core ₱399, Boost ₱549, Power ₱749, Performance ₱999, Ultra ₱1,399
 
 Exported images:
 
