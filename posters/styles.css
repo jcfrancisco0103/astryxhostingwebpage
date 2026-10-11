@@ -410,20 +410,20 @@ html, body {
 .node .server { width: 42px; height: 42px; flex: none; color: #7ad7ff; }
 
 .node .label {
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 800;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.14em;
   color: #d7e8ff;
 }
 
 .node .stats {
-  margin-top: 4px;
+  margin-top: 2px;
   display: flex;
   gap: 14px;
-  font-family: Outfit, "Noto Sans", sans-serif;
-  font-weight: 700;
-  font-size: 20px;
-  letter-spacing: 0.01em;
+  font-family: Syne, Outfit, sans-serif;
+  font-weight: 800;
+  font-size: 28px;
+  letter-spacing: -0.02em;
   color: #ffffff;
 }
 
